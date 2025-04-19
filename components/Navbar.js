@@ -17,6 +17,7 @@ const Navbar = () => {
         <div className="flex items-center">
           <Image src="/millets.jpg" alt="Logo" width={40} height={40} className="rounded-2xl"/>
         </div>
+        <h2 className="text-2xl font-semibold font-[family-name:var(--font-geist-sans)]">Jagdeesh Fresh Millets </h2>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex space-x-6">
